@@ -1,0 +1,35 @@
+FATTURA
+========================================================
+
+Rossi & Bianchi S.r.l.
+Via Giuseppe Verdi, 42
+20121 Milano (MI), Italia
+P.IVA: IT12345678901
+
+Fattura N.:  FT-2024/156
+Data:        22 febbraio 2024
+
+Destinatario:
+  Marco Esposito
+  Via Roma, 15
+  00184 Roma (RM), Italia
+
+--------------------------------------------------------
+Descrizione                            Importo (EUR)
+--------------------------------------------------------
+Consulenza strategica (8 ore)              1.200,00
+Sviluppo sito web aziendale               2.800,00
+Hosting annuale (server dedicato)            180,00
+Rinnovo dominio (.it)                         15,00
+--------------------------------------------------------
+
+                           Imponibile:   € 4.195,00
+                           IVA (22%):    €   922,90
+                           ========================
+                           TOTALE:       € 5.117,90
+
+Modalità di pagamento: Bonifico bancario
+IBAN: IT60 X054 2811 1010 0000 0123 456
+Scadenza: 22 marzo 2024
+
+Grazie per la fiducia!

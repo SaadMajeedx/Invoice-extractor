@@ -1,0 +1,35 @@
+INVOICE
+========================================================
+
+Bright Pixel Studios Ltd.
+123 Innovation Drive, Suite 400
+London, EC2A 4NE, United Kingdom
+VAT: GB987654321
+
+Invoice No:  INV-2024-0847
+Date:        March 15, 2024
+
+Bill To:
+  Acme Corp
+  456 Business Avenue
+  New York, NY 10001, USA
+
+--------------------------------------------------------
+Description                              Amount (USD)
+--------------------------------------------------------
+Website redesign (Phase 1)                   3,200.00
+SEO audit & optimization                       850.00
+Monthly hosting (3 months)                     450.00
+SSL certificate (annual renewal)                99.00
+--------------------------------------------------------
+
+                              Subtotal:     $4,599.00
+                              Tax (0%):         $0.00
+                              ========================
+                              TOTAL DUE:    $4,599.00
+
+Payment Terms:  Net 30
+Payment Method: Bank Transfer
+Due Date:       April 14, 2024
+
+Thank you for your business!
